@@ -1,5 +1,4 @@
 # CODSOFT-Task2
-# CODSOFT-Task2
 # 🌿 Skinveda – Organic Skincare Landing Page
 
 Welcome to the official repository for **Skinveda**, a clean and elegant landing page for an organic skincare brand. This responsive website is built using simple HTML and CSS to highlight natural products with a beautiful, nature-inspired design.
